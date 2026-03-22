@@ -8,7 +8,7 @@ I have a Bachelor's in Electronics and Communication Engineering and a Master's 
 Some of my work on here:
 - Building microservice-based platforms (Docker + Kubernetes, PostgreSQL)
 - Working with GNNs, medical imaging, and deep learning
-- Exploring 5G MIMO and advanced modulation schemes
+- Bandwidth aware LiDAR data compression
 
 I'm currently learning more about cloud infrastructure and system design in my free time.
 
